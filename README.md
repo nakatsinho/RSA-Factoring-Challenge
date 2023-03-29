@@ -149,6 +149,6 @@ julien@ubuntu:~/RSA Factoring Challenge$ [...]
 
 
 
-## Authur
+## Author
 
 - **Kelton Mauro Cumbe** - [nakatsinho](https://github.com/nakatsinho)
